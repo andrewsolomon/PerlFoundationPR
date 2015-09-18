@@ -9,5 +9,5 @@ in 2011 and operates in 11 countries with its headquarters in London, UK.
 
 Link
 ----
-http://www.adzuna.co.uk/press.html
+http://www.adzuna.com/
 
