@@ -1,7 +1,7 @@
 NET-A-PORTER Group Limited
 ==========================
 
-![NET-A-PORTER Logo](/images/nap.jpg "NET-A-PORTER Logo")
+![NET-A-PORTER Logo](/images/net-a-porter_group_logo.png "NET-A-PORTER Logo")
 
 Since launching in June 2000, NET-A-PORTER has established itself as the premier online luxury fashion retailer.
 
