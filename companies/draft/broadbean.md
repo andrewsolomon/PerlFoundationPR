@@ -3,7 +3,7 @@ Broadbean
 
 ![Broadbean Logo](/images/broadbean.jpg "Broadbean Logo")
 
-Founded in 2001, Broadbean provides recruitment technologies including job posting dissemination and resume search engines.
+Founded in 2001, with offices in London, Newport Beach California and Sydney, Australia, Broadbean provides recruitment technologies including job posting distribution and resume search engines.
 
 
 Links
