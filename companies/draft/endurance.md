@@ -2,8 +2,10 @@ Endurance International Group
 =============================
 
 ![Endurance Logo](/images/endurance.jpg "Endurance Logo")
-![Hostgator Logo](/images/endurance-hostgator.png "Hostgator Logo")
+
 ![Bluehost Logo](/images/endurance-bluehost.png "Bluehost Logo")
+
+![Hostgator Logo](/images/endurance-hostgator.png "Hostgator Logo")
 
 Endurance International Group, is a leading provider of cloud-based platform solutions, two of which - BlueHost and HostGator - are founded on Perl.
 
@@ -11,8 +13,11 @@ Endurance International Group, is a leading provider of cloud-based platform sol
 Links
 -----
 http://www.endurance.com/
+
 http://www.bluehost.com/
+
 http://www.hostgator.com/
+
 
 References
 ----------
