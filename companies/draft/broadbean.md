@@ -3,7 +3,7 @@ Broadbean
 
 ![Broadbean Logo](/images/broadbean.jpg "Broadbean Logo")
 
-Founded in 2001, with offices in London, Newport Beach California and Sydney, Australia, Broadbean provides recruitment technologies including job posting distribution and resume search engines.
+Broadbean is a global sourcing tech business with offices in the UK, US, France, Germany and Australia. Established in 2001 and founded on developing smart multi-posting, job distribution solutions, the business has expanded into sourcing, search and data analytics software products for the Recruitment industry. Broadbean is a CareerBuilder company.
 
 
 Links
