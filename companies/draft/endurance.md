@@ -7,7 +7,7 @@ Endurance International Group
 
 ![Hostgator Logo](/images/endurance-hostgator.png "Hostgator Logo")
 
-Endurance International Group, is a leading provider of cloud-based platform solutions, two of which - BlueHost and HostGator - are founded on Perl.
+Endurance International Group, provides cloud-based platform solutions, two of which - BlueHost and HostGator - are founded on Perl.
 
 
 Links

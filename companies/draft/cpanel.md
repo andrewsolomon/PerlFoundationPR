@@ -3,8 +3,8 @@ cPanel
 
 ![cPanel Logo](/images/cP-logo.png "cPanel Logo")
 
-Established in 1997 by (then teenager) Nick Koston, cPanel, based in
-Houston, Texas, is now the market leader in web hosting infrastructure.
+Established in 1997 by Nick Koston, cPanel, based in
+Houston, Texas, is a provider of web hosting infrastructure.
 
 
 Link

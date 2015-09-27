@@ -5,7 +5,7 @@ Booking.com
 
 
 Established in 1996 and based in Amsterdam, the Netherlands, Booking.com
-is the world leader in booking accommodation online.
+provides services for booking accommodation online.
 
 
 Link

@@ -3,7 +3,7 @@ NET-A-PORTER Group Limited
 
 ![NET-A-PORTER Logo](/images/net-a-porter_group_logo.png "NET-A-PORTER Logo")
 
-Since launching in June 2000, NET-A-PORTER has established itself as the premier online luxury fashion retailer.
+Launched in June 2000, NET-A-PORTER is an online luxury fashion retailer with offices in London, New York, Hong Kong and Shanghai.
 
 
 Link
@@ -12,5 +12,5 @@ https://www.net-a-porter.com/
 
 References
 ----------
-https://www.net-a-porter.com/gb/en/About-Us/Our-Company
+https://www.linkedin.com/company/the-net-a-porter-group
 
