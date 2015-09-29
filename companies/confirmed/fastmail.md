@@ -1,7 +1,7 @@
 FastMail
 =============================
 
-![FastMail Logo](/images/fastmail.png =1200x300)
+![FastMail Logo](/images/fastmail.png "FastMail Logo")
 
 FastMail is an employee-owned, independent company located in Melbourne,
 Australia. Over a hundred thousand individuals, families and businesses choose
